@@ -1841,3 +1841,7 @@ footer .footer-pic-list img:hover {
     border: 1px solid #dee2e6;
     border-radius: 24px;
 }
+
+footer .footer-pic-list a:last-child {
+    display: none !important;
+}
